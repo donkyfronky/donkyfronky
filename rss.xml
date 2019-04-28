@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Labcode]]></title><description><![CDATA[Personal blog of a developer]]></description><link>https://donkyfronky.github.io/donkyfronky/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Apr 2019 06:39:30 GMT</lastBuildDate><item><title><![CDATA[Nuovo inizio]]></title><description><![CDATA[Come ormai accaduto in questi anni, ad ogni “svolta” della mia vita è capitato un reboot del mio blog. Talvolta in maniera inclusiva, con la…]]></description><link>https://donkyfronky.github.io/donkyfronky//new-age-new-face/</link><guid isPermaLink="false">https://donkyfronky.github.io/donkyfronky//new-age-new-face/</guid><content:encoded>&lt;p&gt;Come ormai accaduto in questi anni, ad ogni “svolta” della mia vita è capitato un reboot del mio blog. Talvolta in maniera inclusiva, con la collaborazione di altre persone, talvolta esclusiva, raccogliendo solo i miei pensieri e i miei “appunti”.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-bc99b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 44.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABybkWoiLlf//EABoQAAICAwAAAAAAAAAAAAAAAAECAAMQEjH/2gAIAQEAAQUCDxm1BfF/J//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAECBwAAAAAAAAAAAAAAAAAQYQECAxEhcpH/2gAIAQEABj8CJXYxbiU9IJ//xAAcEAACAgIDAAAAAAAAAAAAAAABEQAQMWEhUfD/2gAIAQEAAT8hwg9ZUES2RegnJQ8bdf/aAAwDAQACAAMAAAAQzx//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCq/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QiP/EAB0QAQEAAQQDAAAAAAAAAAAAAAERABAxQWEhUfD/2gAIAQEAAT8QEpEAckOO9sJpJYxS7YYLmee2nxPej//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-78f2b.jpg&quot;
+        srcset=&quot;/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-dce19.jpg 200w,
+/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-c1413.jpg 400w,
+/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-78f2b.jpg 800w,
+/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-ab4c4.jpg 1200w,
+/donkyfronky/static/doctors1-1600x720-8cbbe87d8b1f4d4322ff2518934dbd39-bc99b.jpg 1600w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In questo blog troverete storie, appunti di informatica e divagazioni.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo reboot&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;</content:encoded></item></channel></rss>
