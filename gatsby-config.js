@@ -29,6 +29,7 @@ const queries = [
 ];
 
 module.exports = {
+  pathPrefix: "/donkyfronky",
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,

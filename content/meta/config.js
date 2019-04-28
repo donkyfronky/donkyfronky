@@ -4,8 +4,8 @@ module.exports = {
   siteTitle: "Labcode", // <title>
   shortSiteTitle: "Personal blog of a developer", // <title> ending for posts and pages
   siteDescription: "Personal blog of a developer",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
-  pathPrefix: "/donkyfronky",
+  siteUrl: "https://donkyfronky.github.io/donkyfronky/",
+  pathPrefix: "",
   siteImage: "",
   siteLanguage: "it",
   // author
