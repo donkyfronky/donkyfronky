@@ -44,13 +44,17 @@ const PostHeader = props => {
   const { classes, title, subTitle, date } = props;
 
   function myDate(dateString) {
-    const dateObj = new Date(dateString).toUTCString();
-    const dateToShow = dateObj
+    const jsUcfirst = (string)=> 
+    {
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+    const dateObjpure = new Date(dateString);
+    const options = { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric' };
+    const dateObj = dateObjpure.toLocaleDateString('it-IT', options)
+    const [giorno, ...altro] = dateObj
       .split(" ")
-      .slice(0, 4)
-      .join(" ");
 
-    return dateToShow;
+    return [`${jsUcfirst(giorno)},`,...altro].join(' ');
   }
 
   return (

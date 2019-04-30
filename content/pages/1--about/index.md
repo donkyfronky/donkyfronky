@@ -3,4 +3,4 @@ title: "About"
 menuTitle: "About"
 ---
 
-Still incomplete...but stay tuned!
+Open-source addicted since the High school, i love develop and design software, electronics platform and music.
