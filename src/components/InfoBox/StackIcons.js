@@ -59,7 +59,6 @@ const StackIcons = props => {
     { name: "redux", url: "https://redux.js.org/", comp: ReduxIcon },
     { name: "webpack", url: "https://webpack.js.org/", comp: WebpackIcon },
     { name: "babel", url: "https://babeljs.io/", comp: BabelIcon },
-    { name: "netlify", url: "https://www.netlify.com/", comp: NetlifyIcon }
   ];
 
   return (
