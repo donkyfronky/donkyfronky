@@ -4,12 +4,12 @@ module.exports = {
   siteTitle: "Labcode", // <title>
   shortSiteTitle: "Personal blog of a developer", // <title> ending for posts and pages
   siteDescription: "Personal blog of a developer",
-  siteUrl: "https://donkyfronky.github.io/donkyfronky/",
+  siteUrl: "https://www.labcode.it",
   pathPrefix: "",
   siteImage: "",
   siteLanguage: "it",
   // author
-  authorName: "DonkyFronky",
+  authorName: "Donky Fronky",
   authorTwitterAccount: "donkyfronky",
   // info
   infoTitle: "Labcode",
